@@ -1,5 +1,0 @@
-gymnasium==0.29.1
-numpy==1.26.4
-matplotlib==3.8.4
-pillow==10.3.0
-pygame==2.5.2
